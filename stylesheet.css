@@ -1,0 +1,56 @@
+body{
+	background-color: black;
+	font-family: monospace;
+}
+
+#background{
+	margin: 0 auto;
+	background-color: white;
+	width: 60%;
+	border: 7px solid #87ceeb;
+	margin-top:50px;
+}
+
+#userimage{
+	text-align: center;
+	margin: 0 auto;
+	border-bottom: thick solid #87ceeb;
+	display: flex;
+}
+
+#userinfo{
+	float: right;
+	text-align: left;
+	padding: 12px;
+}
+
+section{
+	padding: 10px;
+	border: 1px solid #87ceeb;
+	margin: 3px;
+}
+
+section h2{
+	display: flex;
+	color: #87ceeb;
+}
+
+p, ul{
+	margin-bottom: 10px;
+	font-size: 15px;
+}
+
+li, p{
+	line-height: 25px;
+	margin-bottom: 15px;
+}
+
+h1{
+	letter-spacing: 3px;
+	font-size: 27px;
+}
+
+h4{
+	letter-spacing: 1px;
+	font-size: 15px;
+}
